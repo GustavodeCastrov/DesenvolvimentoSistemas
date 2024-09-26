@@ -1,0 +1,1 @@
+Sistema desenvolvido na IDE Eclipse utilizando java como linguagem base com o bojetivo de realizar um teste de ansiedade com 10 perguntas específicas, que dependendo da resposta do usuário o programa pode entregar respostas diferentes.
