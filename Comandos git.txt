@@ -1,0 +1,13 @@
+git init - Inicializa a pasta para o software de versionamento.
+git add . "arquivo" - Transfere o arquivo para a área de alteração.
+cd nome_da_pasta - Abre uma pasta.
+cd .. - Volta uma pasta.
+mkdir nome_da_pasta - Cria uma pasta.
+dir - Lista todos os arquivos ou pastas presentes em uma pasta.
+touch gitkeep - Cria um arquivo oculto na pasta.
+git remote add - Vincula o repositório local com o repositório remoto.
+git push –u origin master - Envia os arquivos para um repositório do GitHub.
+git commit –m - Coloca uma mensagem nas pastas do repositório.
+git status - Verifica os status do versionamento.
+
+
